@@ -1,8 +1,6 @@
 <p align="center">
 <div style="width: 80%;margin: 0 auto;dispaly:flex;align-item:center;justify-content:space-round;gap: 12px">
-<a href="https://github-readme-stats.vercel.app/api?username=landon0502&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=landon0502&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="landon0502's github stats" width="390"/> 
-</a>
+
 
 </div>
 
