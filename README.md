@@ -3,9 +3,7 @@
 <a href="https://github-readme-stats.vercel.app/api?username=landon0502&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=landon0502&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="landon0502's github stats" width="390"/> 
 </a>
-<a  href="https://github-readme-stats.vercel.app/api/top-langs/?username=landon0502&layout=compact&theme=buefy&hide_border=true"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=landon0502&layout=compact&theme=buefy&hide_border=true"  width="300"/> 
-</a>
+
 </div>
 
 
